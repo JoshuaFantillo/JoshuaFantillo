@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuafantillo&label=Profile%20views&color=0e75b6&style=flat" alt="joshuafantillo" /> </p>
 
-- 👨‍💻 Explore all my projects: [Projects](https://github.com/JoshuaFantillo)
+- 👨‍💻 Explore all my projects: [Projects](https://github.com/JoshuaFantillo?tab=repositories)
 
 - 💬 Curious about my work? Feel free to ask me about any of my projects—past or present!
 
 - 📫 Reach out: **josfantillo@gmail.com**
 
-- 📄 View my resume/CV:  [Resmue](https://copper-jacquelynn-70.tiiny.site)
+- 📄 View my Resume/CV:  [Resmue](https://copper-jacquelynn-70.tiiny.site)
 
 - ⚡ Fun fact: I successfully completed my Master's Degree while working full-time—proof that perseverance pays off!
 
