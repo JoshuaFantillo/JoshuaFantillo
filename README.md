@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuafantillo&show_icons=true&locale=en&layout=compact" alt="joshuafantillo" /></p>
 
 ## Projects Overview
-
+---------------------------------------------------------------
 ### JJSweep: Optimizing 3D Reconstruction with Sweeping Primitives
 **JJSweep** is a 3D reconstruction pipeline designed to generate efficient, high-fidelity abstractions of complex geometries using cylindrical sweeping primitives. The project focuses on balancing computational efficiency and geometric accuracy, making it ideal for applications like physics simulations, game development, and VR/AR environments.
 
@@ -38,7 +38,7 @@
 
 **Full Project PDF**: [JJSweep Report](https://github.com/JoshuaFantillo/jjsweep/blob/main/JJSweep.pdf)
 
-
+---------------------------------------------------------------
 ### Question Generation: Automated Educational Tools
 **Question Generation** is a project focused on fine-tuning a T5 model to generate contextually relevant questions for educational purposes. This pipeline leverages the SQuAD dataset and includes scripts for preprocessing, fine-tuning, evaluation, and custom question generation based on user-provided inputs like text and PowerPoint slides.
 
@@ -52,7 +52,7 @@
 
 **Project Poster**: [View Poster](Question_Generation_Poster%20(1).pdf)
 
-
+---------------------------------------------------------------
 ### Vancouver Housing Analysis: Exploring Affordability in Metro Vancouver
 **Vancouver Housing Analysis** is a comprehensive project that combines machine learning and interactive tools to analyze and predict housing and property values in the Greater Vancouver area. Designed for a range of stakeholders, the project provides accessible insights into housing trends and future price predictions.
 
@@ -67,7 +67,7 @@
 **Project Video**: [View Demo](https://www.youtube.com/watch?v=KLs9jWV99I8)
 
 **Full Report**: [Analyzing Housing Affordability in Metro Vancouver](Analyzing%20Housing%20Affordability%20in%20Metro%20Vancouver.pdf)
-
+---------------------------------------------------------------
 ### Yelp Data Analysis: Comparing Tools for Business Insight
 **Yelp Data Analysis** is a project designed to analyze the Yelp dataset to identify key business trends, consumer preferences, and rating patterns. By leveraging Big Data tools, the project compares the performance of Spark, Cassandra, and Pandas to identify the most effective methods for processing and extracting insights from large datasets.
 
@@ -80,7 +80,7 @@
 **Tools and Technologies**: Apache Spark, Apache Cassandra, Pandas, Python.
 
 **Project Report**: [Yelp Data Analysis Report](https://github.com/JoshuaFantillo/yelp_dataset_analysis/blob/main/Project%20Report.pdf)
-
+---------------------------------------------------------------
 ### Predicting Group Performance Using Machine Learning Models
 **Predicting Group Performance** is a capstone project that uses multimodal analysis and machine learning techniques to predict how well a group will perform on collaborative tasks. By analyzing speech and linguistic features from the GAP corpus, the project aims to optimize team formation and improve group performance outcomes in various settings.
 
@@ -93,9 +93,8 @@
 **Tools and Technologies**: Python, NLTK, TextBlob, Scikit-learn, Python Speech Features.
 
 **Project Report**: [Capstone Project Report](https://github.com/JoshuaFantillo/predicting-group-performance-using-machine-learning-models/blob/main/Capstone_Project.pdf)
-
-### Comparing Machine Learning Models to Predict Group Performance
 ---------------------------------------------------------------
+### Comparing Machine Learning Models to Predict Group Performance
 **Comparing Machine Learning Models** explores the performance of various classification and regression algorithms in predicting group performance using the GAP corpus dataset. This project evaluates machine learning models by extracting multimodal features and performing comparative analysis to identify the best predictive models.
 
 **Key Features:**
