@@ -95,6 +95,7 @@
 **Project Report**: [Capstone Project Report](https://github.com/JoshuaFantillo/predicting-group-performance-using-machine-learning-models/blob/main/Capstone_Project.pdf)
 
 ### Comparing Machine Learning Models to Predict Group Performance
+---------------------------------------------------------------
 **Comparing Machine Learning Models** explores the performance of various classification and regression algorithms in predicting group performance using the GAP corpus dataset. This project evaluates machine learning models by extracting multimodal features and performing comparative analysis to identify the best predictive models.
 
 **Key Features:**
